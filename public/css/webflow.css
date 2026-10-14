@@ -60,7 +60,6 @@ img {
   display: inline-block;
   user-select: none;
   -webkit-user-drag: none;
-  }
 }
 html.w-mod-touch * {
   background-attachment: scroll !important;

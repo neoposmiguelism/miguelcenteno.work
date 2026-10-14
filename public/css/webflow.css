@@ -1818,3 +1818,10 @@ textarea.w-select {
   grid-row-gap: 16px;
   grid-column-gap: 16px;
 }
+
+footer {
+  text-align: center;
+  color: #888;
+  font-family: 'Vulf Mono', monospace;
+  padding: 20px;
+}
